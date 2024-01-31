@@ -1,0 +1,9 @@
+/.venv
+/202401_VSCode Setup.code-workspace
+/docs
+/models
+/references
+/reports
+/requirements.txt
+/scripts
+/src
